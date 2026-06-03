@@ -1,0 +1,15 @@
+C:\Users\dshiv\OneDrive\Desktop\.Net training\StudentPerformanceDashboard\bin\Debug\net10.0\StudentPerformanceDashboard.exe
+C:\Users\dshiv\OneDrive\Desktop\.Net training\StudentPerformanceDashboard\bin\Debug\net10.0\StudentPerformanceDashboard.deps.json
+C:\Users\dshiv\OneDrive\Desktop\.Net training\StudentPerformanceDashboard\bin\Debug\net10.0\StudentPerformanceDashboard.runtimeconfig.json
+C:\Users\dshiv\OneDrive\Desktop\.Net training\StudentPerformanceDashboard\bin\Debug\net10.0\StudentPerformanceDashboard.dll
+C:\Users\dshiv\OneDrive\Desktop\.Net training\StudentPerformanceDashboard\bin\Debug\net10.0\StudentPerformanceDashboard.pdb
+C:\Users\dshiv\OneDrive\Desktop\.Net training\StudentPerformanceDashboard\obj\Debug\net10.0\StudentPerformanceDashboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dshiv\OneDrive\Desktop\.Net training\StudentPerformanceDashboard\obj\Debug\net10.0\StudentPerformanceDashboard.AssemblyInfoInputs.cache
+C:\Users\dshiv\OneDrive\Desktop\.Net training\StudentPerformanceDashboard\obj\Debug\net10.0\StudentPerformanceDashboard.AssemblyInfo.cs
+C:\Users\dshiv\OneDrive\Desktop\.Net training\StudentPerformanceDashboard\obj\Debug\net10.0\StudentPerformanceDashboard.csproj.CoreCompileInputs.cache
+C:\Users\dshiv\OneDrive\Desktop\.Net training\StudentPerformanceDashboard\obj\Debug\net10.0\StudentPerformanceDashboard.sourcelink.json
+C:\Users\dshiv\OneDrive\Desktop\.Net training\StudentPerformanceDashboard\obj\Debug\net10.0\StudentPerformanceDashboard.dll
+C:\Users\dshiv\OneDrive\Desktop\.Net training\StudentPerformanceDashboard\obj\Debug\net10.0\refint\StudentPerformanceDashboard.dll
+C:\Users\dshiv\OneDrive\Desktop\.Net training\StudentPerformanceDashboard\obj\Debug\net10.0\StudentPerformanceDashboard.pdb
+C:\Users\dshiv\OneDrive\Desktop\.Net training\StudentPerformanceDashboard\obj\Debug\net10.0\StudentPerformanceDashboard.genruntimeconfig.cache
+C:\Users\dshiv\OneDrive\Desktop\.Net training\StudentPerformanceDashboard\obj\Debug\net10.0\ref\StudentPerformanceDashboard.dll
