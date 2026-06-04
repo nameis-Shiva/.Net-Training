@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\dshiv\\OneDrive\\Desktop\\.Net training\\Hospital_Management_System\\Hospital_Management_System.csproj": {}
+    "C:\\Users\\dshiv\\OneDrive\\Desktop\\.Net training\\E_Commerce_Application\\E_Commerce_Application.csproj": {}
   },
   "projects": {
-    "c:\\Users\\dshiv\\OneDrive\\Desktop\\.Net training\\Hospital_Management_System\\Hospital_Management_System.csproj": {
+    "C:\\Users\\dshiv\\OneDrive\\Desktop\\.Net training\\E_Commerce_Application\\E_Commerce_Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\dshiv\\OneDrive\\Desktop\\.Net training\\Hospital_Management_System\\Hospital_Management_System.csproj",
-        "projectName": "Hospital_Management_System",
-        "projectPath": "c:\\Users\\dshiv\\OneDrive\\Desktop\\.Net training\\Hospital_Management_System\\Hospital_Management_System.csproj",
+        "projectUniqueName": "C:\\Users\\dshiv\\OneDrive\\Desktop\\.Net training\\E_Commerce_Application\\E_Commerce_Application.csproj",
+        "projectName": "E_Commerce_Application",
+        "projectPath": "C:\\Users\\dshiv\\OneDrive\\Desktop\\.Net training\\E_Commerce_Application\\E_Commerce_Application.csproj",
         "packagesPath": "C:\\Users\\dshiv\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\dshiv\\OneDrive\\Desktop\\.Net training\\Hospital_Management_System\\obj\\",
+        "outputPath": "C:\\Users\\dshiv\\OneDrive\\Desktop\\.Net training\\E_Commerce_Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dshiv\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,15 @@
+C:\Users\dshiv\OneDrive\Desktop\.Net training\E_Commerce_Application\bin\Debug\net10.0\E_Commerce_Application.exe
+C:\Users\dshiv\OneDrive\Desktop\.Net training\E_Commerce_Application\bin\Debug\net10.0\E_Commerce_Application.deps.json
+C:\Users\dshiv\OneDrive\Desktop\.Net training\E_Commerce_Application\bin\Debug\net10.0\E_Commerce_Application.runtimeconfig.json
+C:\Users\dshiv\OneDrive\Desktop\.Net training\E_Commerce_Application\bin\Debug\net10.0\E_Commerce_Application.dll
+C:\Users\dshiv\OneDrive\Desktop\.Net training\E_Commerce_Application\bin\Debug\net10.0\E_Commerce_Application.pdb
+C:\Users\dshiv\OneDrive\Desktop\.Net training\E_Commerce_Application\obj\Debug\net10.0\E_Commerce_Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dshiv\OneDrive\Desktop\.Net training\E_Commerce_Application\obj\Debug\net10.0\E_Commerce_Application.AssemblyInfoInputs.cache
+C:\Users\dshiv\OneDrive\Desktop\.Net training\E_Commerce_Application\obj\Debug\net10.0\E_Commerce_Application.AssemblyInfo.cs
+C:\Users\dshiv\OneDrive\Desktop\.Net training\E_Commerce_Application\obj\Debug\net10.0\E_Commerce_Application.csproj.CoreCompileInputs.cache
+C:\Users\dshiv\OneDrive\Desktop\.Net training\E_Commerce_Application\obj\Debug\net10.0\E_Commerce_Application.sourcelink.json
+C:\Users\dshiv\OneDrive\Desktop\.Net training\E_Commerce_Application\obj\Debug\net10.0\E_Commerce_Application.dll
+C:\Users\dshiv\OneDrive\Desktop\.Net training\E_Commerce_Application\obj\Debug\net10.0\refint\E_Commerce_Application.dll
+C:\Users\dshiv\OneDrive\Desktop\.Net training\E_Commerce_Application\obj\Debug\net10.0\E_Commerce_Application.pdb
+C:\Users\dshiv\OneDrive\Desktop\.Net training\E_Commerce_Application\obj\Debug\net10.0\E_Commerce_Application.genruntimeconfig.cache
+C:\Users\dshiv\OneDrive\Desktop\.Net training\E_Commerce_Application\obj\Debug\net10.0\ref\E_Commerce_Application.dll
