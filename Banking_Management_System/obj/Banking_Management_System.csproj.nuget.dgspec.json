@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dshiv\\OneDrive\\Desktop\\.Net training\\MyFirstCSharpApp\\MyFirstCSharpApp.csproj": {}
+    "C:\\Users\\dshiv\\OneDrive\\Desktop\\.Net training\\Banking_Management_System\\Banking_Management_System.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dshiv\\OneDrive\\Desktop\\.Net training\\MyFirstCSharpApp\\MyFirstCSharpApp.csproj": {
+    "C:\\Users\\dshiv\\OneDrive\\Desktop\\.Net training\\Banking_Management_System\\Banking_Management_System.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dshiv\\OneDrive\\Desktop\\.Net training\\MyFirstCSharpApp\\MyFirstCSharpApp.csproj",
-        "projectName": "MyFirstCSharpApp",
-        "projectPath": "C:\\Users\\dshiv\\OneDrive\\Desktop\\.Net training\\MyFirstCSharpApp\\MyFirstCSharpApp.csproj",
+        "projectUniqueName": "C:\\Users\\dshiv\\OneDrive\\Desktop\\.Net training\\Banking_Management_System\\Banking_Management_System.csproj",
+        "projectName": "Banking_Management_System",
+        "projectPath": "C:\\Users\\dshiv\\OneDrive\\Desktop\\.Net training\\Banking_Management_System\\Banking_Management_System.csproj",
         "packagesPath": "C:\\Users\\dshiv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dshiv\\OneDrive\\Desktop\\.Net training\\MyFirstCSharpApp\\obj\\",
+        "outputPath": "C:\\Users\\dshiv\\OneDrive\\Desktop\\.Net training\\Banking_Management_System\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dshiv\\AppData\\Roaming\\NuGet\\NuGet.Config"

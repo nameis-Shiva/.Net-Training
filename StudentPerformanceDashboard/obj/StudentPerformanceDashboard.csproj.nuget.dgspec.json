@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dshiv\\OneDrive\\Desktop\\.Net training\\StudentPerformanceDashboard\\StudentPerformanceDashboard.csproj": {}
+    "c:\\Users\\dshiv\\OneDrive\\Desktop\\.Net training\\StudentPerformanceDashboard\\StudentPerformanceDashboard.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dshiv\\OneDrive\\Desktop\\.Net training\\StudentPerformanceDashboard\\StudentPerformanceDashboard.csproj": {
+    "c:\\Users\\dshiv\\OneDrive\\Desktop\\.Net training\\StudentPerformanceDashboard\\StudentPerformanceDashboard.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dshiv\\OneDrive\\Desktop\\.Net training\\StudentPerformanceDashboard\\StudentPerformanceDashboard.csproj",
+        "projectUniqueName": "c:\\Users\\dshiv\\OneDrive\\Desktop\\.Net training\\StudentPerformanceDashboard\\StudentPerformanceDashboard.csproj",
         "projectName": "StudentPerformanceDashboard",
-        "projectPath": "C:\\Users\\dshiv\\OneDrive\\Desktop\\.Net training\\StudentPerformanceDashboard\\StudentPerformanceDashboard.csproj",
+        "projectPath": "c:\\Users\\dshiv\\OneDrive\\Desktop\\.Net training\\StudentPerformanceDashboard\\StudentPerformanceDashboard.csproj",
         "packagesPath": "C:\\Users\\dshiv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dshiv\\OneDrive\\Desktop\\.Net training\\StudentPerformanceDashboard\\obj\\",
+        "outputPath": "c:\\Users\\dshiv\\OneDrive\\Desktop\\.Net training\\StudentPerformanceDashboard\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dshiv\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v10.0": {
-      "MyFirstCSharpApp/1.0.0": {
+      "Banking_Management_System/1.0.0": {
         "runtime": {
-          "MyFirstCSharpApp.dll": {}
+          "Banking_Management_System.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "MyFirstCSharpApp/1.0.0": {
+    "Banking_Management_System/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
