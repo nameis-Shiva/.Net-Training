@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v10.0": {
-      "Banking_Management_System/1.0.0": {
+      "Employee_Payroll_System/1.0.0": {
         "runtime": {
-          "Banking_Management_System.dll": {}
+          "Employee_Payroll_System.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Banking_Management_System/1.0.0": {
+    "Employee_Payroll_System/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
